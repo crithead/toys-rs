@@ -1,0 +1,6 @@
+#comment_width = 72
+#wrap_comments = true
+#control_brace_style = "ClosingNextLine"
+fn_params_layout = "Compressed"
+max_width = 80
+fn_call_width = 80

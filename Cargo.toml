@@ -1,0 +1,13 @@
+[package]
+name = "toys"
+version = "1.0.1"
+authors = ["gene <gene@crithead.com>"]
+edition = "2024"
+
+[dependencies]
+clap = "2"
+rand = "0.9"
+num = "0.4"
+image = "0.25"
+tracing = "0.1"
+tracing-subscriber = "0.3.19"
